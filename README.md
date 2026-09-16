@@ -44,6 +44,12 @@ Key components:
 * Skip connections
 * Residual connections
 
+## LLM-Powered Prediction Insights
+
+An LLM-powered tool interface using Google Gemini was integrated to interpret wildfire prediction outputs and provide natural-language insights.
+
+The interface takes model prediction results and helps translate technical wildfire prediction outputs into human-readable explanations.
+
 ## Loss Function
 
 The training objective combines three loss functions:
